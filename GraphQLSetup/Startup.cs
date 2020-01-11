@@ -42,8 +42,7 @@ namespace GraphQLSetup
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_2);
             services.AddDbContext<GraphQLSetupDbContext>(option =>
                 option.UseSqlServer(Configuration.GetConnectionString("DefaultConnection")));
-            services.AddSingleton<ProductRepository>();
-            services.AddSingleton<GraphQLSetupDbContext>();
+            services.AddScoped<ProductRepository>();
 
             services.AddScoped<IDependencyResolver>(s => new FuncDependencyResolver(s.GetRequiredService));
             services.AddScoped<GraphQLTestSchema>();

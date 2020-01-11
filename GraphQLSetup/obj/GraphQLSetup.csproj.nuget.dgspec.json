@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workshop\\dotnet\\GraphQLTest\\GraphQLSetup\\GraphQLSetup\\GraphQLSetup.csproj": {}
+    "C:\\Workshop\\dotnet\\GraphQLSetup\\graphgl-setup\\GraphQLSetup\\GraphQLSetup.csproj": {}
   },
   "projects": {
-    "C:\\Workshop\\dotnet\\GraphQLTest\\GraphQLSetup\\GraphQLSetup\\GraphQLSetup.csproj": {
+    "C:\\Workshop\\dotnet\\GraphQLSetup\\graphgl-setup\\GraphQLSetup\\GraphQLSetup.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workshop\\dotnet\\GraphQLTest\\GraphQLSetup\\GraphQLSetup\\GraphQLSetup.csproj",
+        "projectUniqueName": "C:\\Workshop\\dotnet\\GraphQLSetup\\graphgl-setup\\GraphQLSetup\\GraphQLSetup.csproj",
         "projectName": "GraphQLSetup",
-        "projectPath": "C:\\Workshop\\dotnet\\GraphQLTest\\GraphQLSetup\\GraphQLSetup\\GraphQLSetup.csproj",
-        "packagesPath": "C:\\Users\\Sakhawat\\.nuget\\packages\\",
-        "outputPath": "C:\\Workshop\\dotnet\\GraphQLTest\\GraphQLSetup\\GraphQLSetup\\obj\\",
+        "projectPath": "C:\\Workshop\\dotnet\\GraphQLSetup\\graphgl-setup\\GraphQLSetup\\GraphQLSetup.csproj",
+        "packagesPath": "C:\\Users\\SAKHAWAT-CMD\\.nuget\\packages\\",
+        "outputPath": "C:\\Workshop\\dotnet\\GraphQLSetup\\graphgl-setup\\GraphQLSetup\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sakhawat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SAKHAWAT-CMD\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
